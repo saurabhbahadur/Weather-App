@@ -1,4 +1,4 @@
-# Weather App
+# [Weather App](https://saurabhbahadur.github.io/Weather-App/)
 
 + Developed a weather forecast application using React Material UI for the frontend design and integrated the OpenWeather API to fetch real-time temperature data for searched cities.
 
