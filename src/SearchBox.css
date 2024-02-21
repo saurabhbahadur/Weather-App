@@ -1,0 +1,18 @@
+.searchBox {
+    text-align: center;
+}
+
+.searchInp {
+    margin: 1rem;
+    padding: 1rem;
+
+}
+
+.searchBtn {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.alert{
+    justify-self:  center;
+}
